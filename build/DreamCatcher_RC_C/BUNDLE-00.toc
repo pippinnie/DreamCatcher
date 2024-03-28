@@ -1,0 +1,3 @@
+([('DreamCatcher_RC_C',
+   '/Users/nara/Library/CloudStorage/OneDrive-國立臺灣科技大學/Multimedia/HW/M11109812_NattiraPinyosunun/Part2_DreamCatcher/dist/DreamCatcher_RC_C',
+   'EXECUTABLE')],)
